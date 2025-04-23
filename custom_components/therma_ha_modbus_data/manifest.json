@@ -1,0 +1,10 @@
+
+{
+  "domain": "therma_ha_modbus_data",
+  "name": "Therma HA Modbus Data",
+  "version": "1.0.0",
+  "documentation": "https://github.com/YOURNAME/therma-ha-modbus-data",
+  "requirements": [],
+  "codeowners": ["@YOURNAME"],
+  "iot_class": "local_polling"
+}
