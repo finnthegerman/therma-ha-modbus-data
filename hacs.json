@@ -1,0 +1,10 @@
+
+{
+  "name": "Therma HA Modbus Data",
+  "render_readme": true,
+  "domain": "therma_ha_modbus_data",
+  "country": "DE",
+  "homeassistant": "2023.0.0",
+  "iot_class": "local_polling",
+  "filename": "custom_components/therma_ha_modbus_data/manifest.json"
+}
